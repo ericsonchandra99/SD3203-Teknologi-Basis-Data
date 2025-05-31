@@ -19,4 +19,3 @@ $java tableGen
 ```
 7. Buat contoh Materialized view dan transactions (masing-masing 5)
 
-Thank, Selamat mengerjakan :blush:
